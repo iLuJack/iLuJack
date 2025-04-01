@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+I'm+iLuJack!%22);print(%22Coding+from+Taiwan+🇹🇼%22)" alt="Typing SVG" />
 </div>
-<h3 align="center">I'm passionate about creating innovative projects <br> and contributing to open source initiatives <br> to make a positive global impact.</h3>
+<h3 align="center">I'm passionate about creating innovative projects</h3>
 
 [iLuJack's Blog](https://jack-blog-ilujack-ilujacks-projects.vercel.app/)
 
