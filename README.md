@@ -3,7 +3,11 @@
 </div>
 <h3 align="center">I'm passionate about creating innovative projects</h3>
 
-[iLuJack's Blog](https://jack-blog-ilujack-ilujacks-projects.vercel.app/)
+<div align="center">
+  <a href="https://jack-blog-ilujack-ilujacks-projects.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&width=435&lines=📝+Visit+My+Blog" alt="Blog" />
+  </a>
+</div>
 
 ## 🌐 Connect with Me
 
