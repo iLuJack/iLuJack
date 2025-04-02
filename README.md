@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm passionate about creating innovative projects</h3>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="90%" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,6 +19,9 @@
 ![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![Homebrew](https://img.shields.io/badge/-Homebrew-05122A?style=flat&logo=homebrew)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+<br />
+<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
