@@ -1,49 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+I'm+iLuJack!%22);print(%22Coding+from+Taiwan+🇹🇼%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=console.log(%22Hello%2C+I'm+iLuJack!%22);print(%22Coding+from+Taiwan+🇹🇼%22)" alt="Typing SVG" />
 </div>
+
 <h3 align="center">I'm passionate about creating innovative projects</h3>
 
-<div align="center">
-  <a href="https://jack-blog-ilujack-ilujacks-projects.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&width=435&lines=📝+Visit+My+Blog" alt="Blog" />
-  </a>
-</div>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## 🌐 Connect with Me
+### 🛠 &nbsp;Tech Stack
 
-<p>
-<a href="https://github.com/iLuJack" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://jack-blog-ilujack-ilujacks-projects.vercel.app/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![Homebrew](https://img.shields.io/badge/-Homebrew-05122A?style=flat&logo=homebrew)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/iLuJack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iLuJack&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuJack&layout=compact&theme=radical"/>
+</a>
 </p>
 
-## 🛠️ Tech Stack
+### 🤝🏻 &nbsp;Connect with Me
 
-<p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" />
-</br>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" />
-<img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat-square" />
-</br>
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=black&style=flat-square" />
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square" />
+<p align="center">
+<a href="https://github.com/iLuJack"><img src="https://img.shields.io/badge/-iLuJack-05122A?style=flat&logo=Github"/></a>
+<a href="https://jack-blog-ilujack-ilujacks-projects.vercel.app/"><img src="https://img.shields.io/badge/-My%20Blog-05122A?style=flat&logo=vercel"/></a>
 </p>
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iLuJack&show_icons=true&theme=radical)
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iLuJack&layout=compact&theme=radical)
-
-### Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=iLuJack&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iLuJack&color=blueviolet" alt="Profile Views" />
+</p>
 
 ---
 ⭐️ From [iLuJack](https://github.com/iLuJack)
