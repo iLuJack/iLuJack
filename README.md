@@ -36,7 +36,7 @@
 
 <p align="left">
 <a href="https://github.com/iLuJack"><img src="https://img.shields.io/badge/-iLuJack-05122A?style=flat&logo=Github"/></a>
-<a href="https://jack-blog-ilujack-ilujacks-projects.vercel.app/"><img src="https://img.shields.io/badge/-My%20Blog-05122A?style=flat&logo=vercel"/></a>
+<a href="https://blog-seven-self-93.vercel.app/"><img src="https://img.shields.io/badge/-My%20Blog-05122A?style=flat&logo=vercel"/></a>
 </p>
 
 <p align="left">
