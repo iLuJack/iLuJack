@@ -12,12 +12,17 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;\
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;\
+![Clerk](https://img.shields.io/badge/-Clerk-05122A?style=flat&logo=clerk)&nbsp;
+![Convex](https://img.shields.io/badge/-Convex-05122A?style=flat&logo=convex)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Homebrew](https://img.shields.io/badge/-Homebrew-05122A?style=flat&logo=homebrew)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 <br />
@@ -27,8 +32,8 @@
 
 <div align="center">
   <a href="https://github.com/iLuJack">
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=iLuJack&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuJack&layout=compact&theme=nord"/>
+    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=iLuJack&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuJack&layout=compact&theme=nord&cache_seconds=1800"/>
   </a>
 </div>
 
